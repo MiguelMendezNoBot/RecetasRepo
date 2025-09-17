@@ -1,4 +1,4 @@
 # RecetasRepo
 Recetas
 receta vegetariana
-1. no usar carne
+1. no carne
